@@ -1,0 +1,27 @@
+Sep 27 15:52:09 cu-cs-vm rsyslogd: [origin software="rsyslogd" swVersion="7.4.4" x-pid="700" x-info="http://www.rsyslog.com"] rsyslogd was HUPed
+Sep 27 15:52:13 cu-cs-vm anacron[906]: Job `cron.daily' terminated
+Sep 27 15:52:13 cu-cs-vm anacron[906]: Job `cron.weekly' started
+Sep 27 15:52:13 cu-cs-vm anacron[4449]: Updated timestamp for job `cron.weekly' to 2015-09-27
+Sep 27 15:52:14 cu-cs-vm anacron[906]: Job `cron.weekly' terminated
+Sep 27 15:52:14 cu-cs-vm anacron[906]: Job `cron.monthly' started
+Sep 27 15:52:14 cu-cs-vm anacron[906]: Job `cron.monthly' terminated
+Sep 27 15:52:14 cu-cs-vm anacron[906]: Normal exit (3 jobs run)
+Sep 27 15:52:14 cu-cs-vm anacron[4476]: Updated timestamp for job `cron.monthly' to 2015-09-27
+Sep 27 16:17:01 cu-cs-vm CRON[4541]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 27 16:41:13 cu-cs-vm uptimed: new uptime record: 0 days, 01:10:10
+Sep 27 17:17:01 cu-cs-vm CRON[5699]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 27 18:09:21 cu-cs-vm kernel: [ 6201.106884] Initalizing simple_char_driver
+Sep 27 18:17:01 cu-cs-vm CRON[5737]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 27 19:09:39 cu-cs-vm kernel: [ 9497.691500] Exiting simple_char_driverInitalizing simple_char_driver
+Sep 27 19:12:41 cu-cs-vm kernel: [13115.914083] Exiting simple_char_driverInitalizing simple_char_driver
+Sep 27 19:12:41 cu-cs-vm kernel: [13298.223299] Opened 1 times
+Sep 27 19:12:41 cu-cs-vm kernel: [13298.223323] closed 1 times
+Sep 27 19:15:36 cu-cs-vm kernel: [13472.874907] Opened 2 times
+Sep 27 19:15:36 cu-cs-vm kernel: [13472.874922] closed 2 times
+Sep 27 19:15:40 cu-cs-vm kernel: [13477.401803] Opened 3 times
+Sep 27 19:15:40 cu-cs-vm kernel: [13477.401828] closed 3 times
+Sep 27 19:16:36 cu-cs-vm kernel: [13532.905315] Opened 4 times
+Sep 27 19:16:36 cu-cs-vm kernel: [13532.905329] closed 4 times
+Sep 27 19:16:43 cu-cs-vm kernel: [13539.519109] Opened 5 times
+Sep 27 19:16:43 cu-cs-vm kernel: [13539.519136] closed 5 times
+Sep 27 19:17:01 cu-cs-vm CRON[6014]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)

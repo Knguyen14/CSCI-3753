@@ -1,0 +1,16 @@
+--2015-10-15 21:44:56--  https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh
+Resolving github.com (github.com)... 192.30.252.129
+Connecting to github.com (github.com)|192.30.252.129|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh [following]
+--2015-10-15 21:44:56--  https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 23.235.47.133
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|23.235.47.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3890 (3.8K) [text/plain]
+Saving to: ‘install.sh’
+
+     0K ...                                                   100%  434M=0s
+
+2015-10-15 21:44:57 (434 MB/s) - ‘install.sh’ saved [3890/3890]
+

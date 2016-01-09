@@ -1,0 +1,20 @@
+CS3753 OS
+University of Colorado Boulder
+Programming Assignment 5
+
+Build
+
+Build All:
+ make
+
+Build Fuse Examples and Utilities:
+ make fuse-examples
+
+Build xattr Examples and Utilities:
+ make xattr-examples
+
+Build OpenSSL/AES Examples and Utilities:
+ make openssl-examples
+
+Clean:
+ make clean
